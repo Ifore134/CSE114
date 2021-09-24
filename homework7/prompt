@@ -1,0 +1,19 @@
+The prompt for this assignment was:
+
+1. (HexFormatException) Implement the parseHex that transforms from hexadecimal to decimal method to throw a 
+NumberFormatException if the string is NOT a hex string. Define a custom exception called HexFormatException.
+
+2. Write an abstract superclass encapsulating a college applicant: A college applicant has two attributes: the applicant's name 
+and the college the applicant is applying to. This class has two non-abstract subclasses: one encapsulating an applicant for undergraduate school, 
+and the other encapsulating an applicant for graduate school. An applicant for undergraduate school has two additional attributes: an SAT score 
+and a GPA. An applicant for graduate school has one additional attribute: the college of origin. It also has a method that returns "from inside" 
+if the college of origin is the same as the college applied to; otherwise, it returns "from outside." You also need to include a class to test these classes.
+
+3. (Enable GeometricObject comparable) Modify the GeometricObject class to implement the Comparable interface, and define a static max
+method in the GeometricObject class for finding the larger of two GeometricObject objects. Draw the UML diagram and implement the new 
+GeometricObject class. Write a test program that uses the max method to find the larger of two circles and the larger of two rectangles.
+
+4. (Enable GeometricObject cloneable) Modify the GeometricObject class to implement the Cloneable interface. 
+Draw the UML diagram and implement the new GeometricObject class. Write a test program that uses the clone method to copy a rectangle.
+
+Points: 4 (1 point each problem)
